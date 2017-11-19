@@ -1,5 +1,5 @@
-bin/
+/bin/
 
-.DS_Store
-.project
 .classpath
+.project
+.DS_Store
