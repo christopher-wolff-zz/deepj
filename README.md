@@ -1,4 +1,4 @@
 # DeepJ
 A machine learning library for Java
 
-Status: In progress
+Status: On halt
